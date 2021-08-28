@@ -4,7 +4,7 @@
 #include <stdint.h>
 
 // Custom dependencies
-#include "Mecanum.hpp"
+#include "../Mecanum/Mecanum.hpp"
 
 
 /*

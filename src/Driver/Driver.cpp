@@ -5,9 +5,9 @@
 // Custom dependencies:
 #include "Arduino.h"
 #include "Driver.hpp"  // Contains class methods' declaration.
-#include "Hercules.hpp"
-#include "Lsa08.hpp"
-#include "Mecanum.hpp"
+#include "../Hercules/Hercules.hpp"
+#include "../Lsa/Lsa08.hpp"
+#include "../Mecanum/Mecanum.hpp"
 
 // Custom definitions
 #define range 5

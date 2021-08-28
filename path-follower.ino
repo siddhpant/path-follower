@@ -5,9 +5,9 @@
 #include "Arduino.h"
 
 // Include custom classes
-#include "Driver.hpp"
-#include "Lsa08.hpp"
-#include "Mecanum.hpp"
+#include "src/Driver/Driver.hpp"
+#include "src/Lsa/Lsa08.hpp"
+#include "src/Mecanum/Mecanum.hpp"
 
 // Custom definitions
 #define pwm 35

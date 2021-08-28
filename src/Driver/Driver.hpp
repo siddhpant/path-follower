@@ -5,9 +5,9 @@
 #include <stdbool.h>
 
 // Custom dependencies
-#include "Hercules.hpp"
-#include "Lsa08.hpp"
-#include "Mecanum.hpp"
+#include "../Hercules/Hercules.hpp"
+#include "../Lsa/Lsa08.hpp"
+#include "../Mecanum/Mecanum.hpp"
 
 
 /*

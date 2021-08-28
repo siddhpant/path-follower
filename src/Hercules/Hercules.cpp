@@ -3,7 +3,7 @@
 
 // Custom dependencies:
 #include "Hercules.hpp"  // Contains class methods' declaration.
-#include "Mecanum.hpp"
+#include "../Mecanum/Mecanum.hpp"
 
 
 // Initialise motor pointers
